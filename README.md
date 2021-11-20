@@ -1,2 +1,2 @@
 # ReactGraphQLProgram
-Program using Grapql and react
+Program using Graphql and react
